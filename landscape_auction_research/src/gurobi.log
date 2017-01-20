@@ -1,0 +1,67 @@
+
+Gurobi 6.0.5 (win32) logging started 10/01/15 12:33:47
+
+
+Gurobi 6.0.5 (win32) logging started 10/01/15 12:34:30
+
+
+Gurobi 6.0.5 (win32) logging started 10/01/15 12:34:57
+
+Optimize a model with 1 rows, 225 columns and 225 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 9e+00]
+  Objective range [2e+00, 1e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+03, 1e+03]
+Found heuristic solution: objective 0
+Presolve removed 1 rows and 225 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+
+Gurobi 6.0.5 (win32) logging started 10/01/15 12:36:12
+
+Optimize a model with 1 rows, 225 columns and 225 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 9e+00]
+  Objective range [2e+00, 1e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+03, 1e+03]
+Presolve removed 0 rows and 75 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 6.0.5 (win32) logging started 10/01/15 12:38:03
+
+Optimize a model with 1 rows, 225 columns and 225 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 9e+00]
+  Objective range [2e+00, 1e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+03, 1e+03]
+Presolve removed 0 rows and 75 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 6.0.5 (win32) logging started 10/02/15 12:54:30
+
+
+Gurobi 6.0.5 (win32) logging started 10/02/15 12:54:56
+
+
+Gurobi 6.0.5 (win32) logging started 10/02/15 12:55:35
+
